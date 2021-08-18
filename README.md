@@ -1,2 +1,2 @@
 # Rust-Sandbox
-Sandbox of Rust
+Sandbox for Rust
